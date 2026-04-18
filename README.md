@@ -1,5 +1,5 @@
-# AV1-WEBIII
-Atividade de avaliação individual 1 da matéria de WEB III
+# AV2-WEBIII
+Atividade de avaliação individual 2 da matéria de WEB III
 
 ## Manual de execução
 
